@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Java mail api">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../activation-1.1.jar" />
+      <root url="file://$PROJECT_DIR$/../../javamail-1.4.7/Java mail api" />
+      <root url="file://$PROJECT_DIR$/../../javax.mail.jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../activation-1.1.jar" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../javamail-1.4.7/Java mail api" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../javax.mail.jar" recursive="false" />
+  </library>
+</component>
