@@ -168,7 +168,7 @@ public class Main {
         return genelMails;
     }
 
-    //DOSYADAN TÜM YÜELERİN MAİLLERİNİ ALMA
+    //DOSYADAN TÜM ÜYELERİN MAİLLERİNİ ALMA
     public static ArrayList<String> getAllMails(String fileName) {
         ArrayList<String> allMails = new ArrayList<>();
         try (Scanner scanner = new Scanner(new File(fileName))) {
