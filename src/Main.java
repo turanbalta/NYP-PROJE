@@ -216,8 +216,8 @@ public class Main {
 
     // MAİL GÖNDERME İŞLEMİ
     private static void sendMail(ArrayList<String> toList, String konu, String mesaj) {
-        final String username = "1turanbalta@gmail.com"; // GMAIL hesabı kullanılacaksa, mail adresi girilmeli
-        final String password = "wwbhrqcnlnihvuye"; // GMAIL hesabı kullanılacaksa, şifre girilmeli
+        final String username = ""; // GMAIL hesabı kullanılacaksa, mail adresi girilmeli
+        final String password = ""; // GMAIL hesabı kullanılacaksa, şifre girilmeli
 
         Properties props = new Properties();
         props.put("mail.smtp.auth", "true");
